@@ -1,0 +1,34 @@
+Dimension,Theme ,Indicator
+Food,Security,Experience of Hunger
+Water,Sufficiency,Frequency of sufficiency
+Water,Accessibility,Distance
+Water,Quality,Sources and treatment
+Shelter,Habitability,Condition
+Shelter,Homelessness,Homelessness
+Health,Healthcare,Healthcare
+Health,Status,Status
+Health,Status,Exposure to smoke
+Education,Quality,Reading 
+Education,Quality,Writing
+Education,Quality,Numeracy
+Education,Attainment,Literacy and Numeracy
+Education,Attainment,Schooling
+Violence,,
+Clothing,Clothing,Presentation
+Clothing,Clothing,Protection
+Relationships,Support,Ability to access support
+Sanitation,Quality,Toilet Facilities
+Energy,Electricity,Access
+Energy,Electricity,Reliability
+Energy,Cooking Fuel,Cooking Fuel
+Work,Paid Work,Type of Work
+Work,Paid Work,Security and Hazards
+Work,Paid Work,Respect
+Work,Unpaid Work,Security and Hazards
+Work,Unpaid Work,Respect
+Time Use,Labour Burden,Leisure time
+Voice,In the home,Control over decisions
+Voice,In the community,Bring about change
+Voice,In the community,Raise opinion
+Environment,Hazards,Exposure to hazards
+Family Planning,,
